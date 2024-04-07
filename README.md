@@ -5,7 +5,7 @@ A complete email administration using name, department, company name to generate
 Application handles the following
 
 - Generate an email with the following
-   firstname.lastname@dept.company.com
+   firstname.lastname@deptcompany.com
 - Determine the department
    Eg - HR, admin, development
 - Generate a random String password
